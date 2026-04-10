@@ -91,7 +91,7 @@ def fetch_shopify_products() -> list[dict]:
     all_products = []
     url = (
         f"https://{SHOPIFY_STORE_URL}/admin/api/2024-01/products.json"
-        "?status=active&limit=250&fields=id,title,handle,images,variants,product_type,tags"
+        "?status=active&limit=250&fields=id,title,handle,images,variants,product_type,tags,body_html"
     )
     headers = {"X-Shopify-Access-Token": SHOPIFY_ACCESS_TOKEN}
 
@@ -227,8 +227,25 @@ def select_product_shot(images: list[dict]) -> str | None:
     return images[0].get("src")
 
 
-def build_feed() -> dict:
-    """Assemble the complete feed: product data + Yotpo reviews."""
+def strip_html(text: str) -> str:
+    """Crude HTML tag removal for description field."""
+    if not text:
+        return ""
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def build_feed() -> list:
+    """
+    Assemble the complete feed as a flat JSON array.
+
+    Follows Klaviyo's custom catalog feed schema (verified from klaviyo/devportal):
+    - Root is a bare JSON array (not an object)
+    - Field names are plain (id, title, link, image_link, description)
+    - Custom metadata fields are flat at item level
+    - First item MUST contain every field Klaviyo should detect in mapping
+    """
     products = fetch_shopify_products()
     mapping = load_yotpo_id_mapping()
     mapping_dirty = False
@@ -262,35 +279,30 @@ def build_feed() -> dict:
         images = p.get("images") or []
         variants = p.get("variants") or []
         price = int(float(variants[0].get("price", 0))) if variants else 0
+        body_html = p.get("body_html") or ""
+        description = strip_html(body_html)[:500] or title
 
+        # Klaviyo schema: required + optional + custom
         item = {
+            # REQUIRED
             "id": shopify_id,
-            "handle": handle,
             "title": title,
+            "link": f"https://hereness.jp/products/{handle}",
+            "image_link": images[0]["src"] if images else "https://hereness.jp/cdn/shop/files/hereness-logo.png",
+            "description": description,
+            # OPTIONAL
             "price": price,
-            "url": f"https://hereness.jp/products/{handle}",
-            "image_url": images[0]["src"] if images else "",
-            "product_shot_url": select_product_shot(images) or "",
+            "categories": [t.strip() for t in (p.get("tags") or "").split(",") if t.strip()][:10],
+            # CUSTOM METADATA (flat, mappable in Klaviyo UI)
+            "handle": handle,
             "product_type": p.get("product_type", ""),
-            "tags": [t.strip() for t in (p.get("tags") or "").split(",") if t.strip()],
+            "product_shot_url": select_product_shot(images) or "",
+            "average_score": reviews["average_score"] if reviews else 0,
+            "total_reviews": reviews["total_reviews"] if reviews else 0,
+            "top_review_text": (reviews["top_review_text"] or "") if reviews else "",
+            "top_review_score": (reviews["top_review_score"] or 0) if reviews else 0,
+            "top_review_title": (reviews["top_review_title"] or "") if reviews else "",
         }
-
-        if reviews:
-            item.update({
-                "average_score": reviews["average_score"],
-                "total_reviews": reviews["total_reviews"],
-                "top_review_text": reviews["top_review_text"],
-                "top_review_score": reviews["top_review_score"],
-                "top_review_title": reviews["top_review_title"],
-            })
-        else:
-            item.update({
-                "average_score": None,
-                "total_reviews": 0,
-                "top_review_text": None,
-                "top_review_score": None,
-                "top_review_title": None,
-            })
 
         items.append(item)
         status = f"★{reviews['average_score']} ({reviews['total_reviews']})" if reviews else "no reviews"
@@ -300,28 +312,25 @@ def build_feed() -> dict:
         save_yotpo_id_mapping(mapping)
         print(f"Mapping cache updated: {len(mapping)} entries", file=sys.stderr)
 
-    feed = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "source": "yotpo+shopify",
-        "store": "hereness.jp",
-        "item_count": len(items),
-        "items": items,
-    }
+    # IMPORTANT: Klaviyo detects schema from item[0]. Put an item with reviews
+    # first, so all custom fields are picked up during mapping.
+    items_with_reviews = [i for i in items if i["total_reviews"] > 0]
+    items_without_reviews = [i for i in items if i["total_reviews"] == 0]
+    items_with_reviews.sort(key=lambda x: -x["total_reviews"])
+    items = items_with_reviews + items_without_reviews
 
-    print(
-        f"\nFeed: {len(items)} items, {skipped} skipped",
-        file=sys.stderr,
-    )
-    return feed
+    print(f"\nFeed: {len(items)} items, {skipped} skipped", file=sys.stderr)
+    return items
 
 
 def main() -> int:
     DOCS_DIR.mkdir(exist_ok=True)
-    feed = build_feed()
+    items = build_feed()
 
+    # Klaviyo expects a bare JSON array at the root
     output_path = DOCS_DIR / "reviews.json"
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(feed, f, ensure_ascii=False, indent=2)
+        json.dump(items, f, ensure_ascii=False, indent=2)
 
     print(
         f"\nWritten: {output_path} ({output_path.stat().st_size / 1024:.1f} KB)",
