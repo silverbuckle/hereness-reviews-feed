@@ -1,0 +1,42 @@
+name: Daily Reviews Sync
+
+on:
+  schedule:
+    # Daily at 06:00 JST (21:00 UTC previous day)
+    - cron: '0 21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run sync script
+        env:
+          SHOPIFY_STORE_URL: hereness.myshopify.com
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          YOTPO_APP_KEY: ${{ secrets.YOTPO_APP_KEY }}
+        run: |
+          python scripts/sync_reviews.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/reviews.json cache/yotpo_product_id_mapping.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: daily reviews feed update"
+            git push
+          fi
