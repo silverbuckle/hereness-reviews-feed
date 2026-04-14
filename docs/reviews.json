@@ -404,7 +404,7 @@
     "product_type": "トップス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/CALM_JACKET_GRAY.jpg?v=1758792675",
     "average_score": 4.8,
-    "total_reviews": 13,
+    "total_reviews": 14,
     "top_review_text": "ランニング用にセットアップでCRIMSON REDを購入して良かったので洗濯した時用にblackのセットアップも購入しました。寝る時や家で休日を過ごす時に着ています。\n肌触りとユルすぎずタイトすぎないフィット感が丁度良いです。ジムやスポーツ系のイベント、大会の時にもちょっと着ていけて便利です",
     "top_review_score": 5,
     "top_review_title": "丁度良い"
@@ -755,6 +755,33 @@
     "top_review_title": "肌触りなめらか！"
   },
   {
+    "id": "6763738595496",
+    "title": "Econyl®︎ LONG TIGHTS(MEN)",
+    "link": "https://hereness.jp/products/hm-20004",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_006_002.jpg?v=1773462192",
+    "description": "These long tights are made from Econyl®︎, a recycled nylon yarn made from discarded fishing nets. They feature a moderate fit and a pocket designed to securely hold your smartphone while running.",
+    "price": 9900,
+    "categories": [
+      "bottoms",
+      "Econyl®︎",
+      "MEN",
+      "Nylon",
+      "Tights",
+      "エコニール",
+      "パンツ",
+      "ランニング",
+      "ランニングウェア"
+    ],
+    "handle": "hm-20004",
+    "product_type": "ボトムス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S023_003.jpg?v=1773462192",
+    "average_score": 4.6,
+    "total_reviews": 7,
+    "top_review_text": "手触り、履き心地よく、\nとても気に入ってもらえたようで\n渡した方としても、嬉しく思いました。\nこれからも良い製品を提供していただきたいと思います。",
+    "top_review_score": 5,
+    "top_review_title": "Xmasプレゼント用に"
+  },
+  {
     "id": "9174696820953",
     "title": "Outdoor Seersucker Shorts",
     "link": "https://hereness.jp/products/hu-20007",
@@ -861,33 +888,6 @@
     "top_review_text": "ウインドシェルの一つの到達地点かもしれません。これまでに幾つものメーカーの商品を使用してきました。それぞれに特徴があり、用途に応じて使い分けてきました。ただ、このジャケットは、これまでのジャケットが個別で得意としてきた、生地の撥水性、透湿性、防風性を高次で融合しバランスをとりながら、しかも軽い。\nまた、シルエットに余裕のあるデザインなので、トレイルランニングパックの上からも十分に着用することができ、体が温まれば、脱いでポケットに入れてしまえば、その存在感すらない。ウインドシェルに求められる機能を必要十分に満たしていると思います。\n\n177cmでMサイズを着用。",
     "top_review_score": 5,
     "top_review_title": "必要十分."
-  },
-  {
-    "id": "6763738595496",
-    "title": "Econyl®︎ LONG TIGHTS(MEN)",
-    "link": "https://hereness.jp/products/hm-20004",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_006_002.jpg?v=1773462192",
-    "description": "These long tights are made from Econyl®︎, a recycled nylon yarn made from discarded fishing nets. They feature a moderate fit and a pocket designed to securely hold your smartphone while running.",
-    "price": 9900,
-    "categories": [
-      "bottoms",
-      "Econyl®︎",
-      "MEN",
-      "Nylon",
-      "Tights",
-      "エコニール",
-      "パンツ",
-      "ランニング",
-      "ランニングウェア"
-    ],
-    "handle": "hm-20004",
-    "product_type": "ボトムス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S023_003.jpg?v=1773462192",
-    "average_score": 4.5,
-    "total_reviews": 6,
-    "top_review_text": "手触り、履き心地よく、\nとても気に入ってもらえたようで\n渡した方としても、嬉しく思いました。\nこれからも良い製品を提供していただきたいと思います。",
-    "top_review_score": 5,
-    "top_review_title": "Xmasプレゼント用に"
   },
   {
     "id": "6969327714472",
