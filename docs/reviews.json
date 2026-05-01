@@ -49,10 +49,10 @@
     "product_type": "ボトムス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S020_001.jpg?v=1773463169",
     "average_score": 4.6,
-    "total_reviews": 108,
-    "top_review_text": "履き心地が最高すぎて、追加でもう一枚と、恋人にもプレゼントしました🎵カラーも豊富で選ぶのが楽しかったし、とっても喜んでもらえました〜！🩳\n\n個人的に、鍵と小銭、頑張れば携帯をバックポケットに入れて、ふらっと走りに行けるのが推しポイントです✌️そしてすぐ乾く！",
+    "total_reviews": 109,
+    "top_review_text": "161cm女性です。丈が長めのランパンがほしかったのでメンズのSにしたところ、まさに理想的な長さとボリューム感でした。\n一般的な女性用のランパンより少し丈が長く、若干ふわっとしたシルエットになって安心感があります。色はグレーですがマットな質感のおかげで高級感があり、非常に良いです。暑い時期のランニングに活躍しそうです。",
     "top_review_score": 5,
-    "top_review_title": "快適！かわいい！最高！"
+    "top_review_title": "女性ですがメンズのSにしました"
   },
   {
     "id": "6053860737192",
@@ -161,7 +161,7 @@
     "product_type": "ソックス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/HERENESS_023.jpg?v=1656400904",
     "average_score": 4.6,
-    "total_reviews": 32,
+    "total_reviews": 33,
     "top_review_text": "走る日も走らない日も、夏でも冬でも毎日履いています。\nとても快適な靴下で、一度履くと手放せなくなります。\nショート丈の再入荷を待っています。",
     "top_review_score": 5,
     "top_review_title": "毎日快適です"
@@ -701,6 +701,34 @@
     "top_review_title": "ウールのよさを感じられるアイテムです。"
   },
   {
+    "id": "9102583398617",
+    "title": "SMOOTH WOOL T-SHIRT 2(UNISEX)",
+    "link": "https://hereness.jp/products/hu-10012",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_001_001.jpg?v=1773456046",
+    "description": "Our Smooth Wool T-shirt is made of ultra-fine 17.5-micron merino yarn. Its signature super soft feel will forever change the way you think about wool, and is great for hiking and any activities in your active lifestyle.",
+    "price": 13200,
+    "categories": [
+      "MEN",
+      "Short Sleeve",
+      "T-shirt & Tank",
+      "Tops",
+      "WOMEN",
+      "ウール",
+      "トレイルラン",
+      "ハイキング",
+      "ヨガ",
+      "ランニング"
+    ],
+    "handle": "hu-10012",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S001_007.jpg?v=1773463507",
+    "average_score": 4.8,
+    "total_reviews": 8,
+    "top_review_text": "ウール100%のTシャツを初めて購入しました。蒸れずに常にサラサラ、それでいて寒くなく快適です。買ってよかった一枚です",
+    "top_review_score": 5,
+    "top_review_title": "ウールの着心地の良さ"
+  },
+  {
     "id": "8097679704281",
     "title": "SOFT WOOL BOXER(MEN)",
     "link": "https://hereness.jp/products/hm-40001",
@@ -863,6 +891,30 @@
     "top_review_title": "タンクトップ"
   },
   {
+    "id": "9041422221529",
+    "title": "UNDERCURRENT PANTS 2",
+    "link": "https://hereness.jp/products/hu-20006",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_010_002_9dee6f9b-df0f-4b1b-a784-d7beb321cbe1.jpg?v=1773460038",
+    "description": "These pants are made from recycled polyester with a texture similar to natural fibers. Despite being free of polyurethane, they offer excellent stretch, a smooth feel, and ease of care. The wide silhouette ensures freedom of movement, and the cuffs feature a drawcord for adjustable fit.(There are slight differences in the fabric and color compared to the previous product.)",
+    "price": 22000,
+    "categories": [
+      "bottoms",
+      "Long Pants",
+      "MEN",
+      "WOMEN",
+      "ポリエステル",
+      "ライフスタイル"
+    ],
+    "handle": "hu-20006",
+    "product_type": "ボトムス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S028_001.jpg?v=1773460038",
+    "average_score": 5.0,
+    "total_reviews": 7,
+    "top_review_text": "リサイクル素材、梱包方法などとても素晴らしい取り組み、地球のためにありがとうございます。色味とシルエットがとても好きです。",
+    "top_review_score": 5,
+    "top_review_title": "経営理念に共感します"
+  },
+  {
     "id": "9126345441497",
     "title": "7D Packable Jacket",
     "link": "https://hereness.jp/products/hu-30005",
@@ -940,34 +992,6 @@
     "top_review_title": "使い勝手最高"
   },
   {
-    "id": "9102583398617",
-    "title": "SMOOTH WOOL T-SHIRT 2(UNISEX)",
-    "link": "https://hereness.jp/products/hu-10012",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_001_001.jpg?v=1773456046",
-    "description": "Our Smooth Wool T-shirt is made of ultra-fine 17.5-micron merino yarn. Its signature super soft feel will forever change the way you think about wool, and is great for hiking and any activities in your active lifestyle.",
-    "price": 13200,
-    "categories": [
-      "MEN",
-      "Short Sleeve",
-      "T-shirt & Tank",
-      "Tops",
-      "WOMEN",
-      "ウール",
-      "トレイルラン",
-      "ハイキング",
-      "ヨガ",
-      "ランニング"
-    ],
-    "handle": "hu-10012",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S001_007.jpg?v=1773463507",
-    "average_score": 4.7,
-    "total_reviews": 6,
-    "top_review_text": "ウール100%のTシャツを初めて購入しました。蒸れずに常にサラサラ、それでいて寒くなく快適です。買ってよかった一枚です",
-    "top_review_score": 5,
-    "top_review_title": "ウールの着心地の良さ"
-  },
-  {
     "id": "6678932455592",
     "title": "SOFT WOOL TANK(WOMEN)",
     "link": "https://hereness.jp/products/hw-10001",
@@ -994,30 +1018,6 @@
     "top_review_text": "ウールTのアンダー用に同素材を勧めていただき157cmで一番小さいサイズを購入しました\nウールTより地厚ですが汗をかいても快適でした　身ごろはゆったりですが首元がタイト、体に馴染むので着心地もいいです　ボディラインに自信が付けばスポーツブラにこれ！の組み合わせがいいと思います、ファイト！",
     "top_review_score": 5,
     "top_review_title": "ふんわりと気持ちが良いです"
-  },
-  {
-    "id": "9041422221529",
-    "title": "UNDERCURRENT PANTS 2",
-    "link": "https://hereness.jp/products/hu-20006",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_010_002_9dee6f9b-df0f-4b1b-a784-d7beb321cbe1.jpg?v=1773460038",
-    "description": "These pants are made from recycled polyester with a texture similar to natural fibers. Despite being free of polyurethane, they offer excellent stretch, a smooth feel, and ease of care. The wide silhouette ensures freedom of movement, and the cuffs feature a drawcord for adjustable fit.(There are slight differences in the fabric and color compared to the previous product.)",
-    "price": 22000,
-    "categories": [
-      "bottoms",
-      "Long Pants",
-      "MEN",
-      "WOMEN",
-      "ポリエステル",
-      "ライフスタイル"
-    ],
-    "handle": "hu-20006",
-    "product_type": "ボトムス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S028_001.jpg?v=1773460038",
-    "average_score": 5.0,
-    "total_reviews": 6,
-    "top_review_text": "リサイクル素材、梱包方法などとても素晴らしい取り組み、地球のためにありがとうございます。色味とシルエットがとても好きです。",
-    "top_review_score": 5,
-    "top_review_title": "経営理念に共感します"
   },
   {
     "id": "8198813319385",
