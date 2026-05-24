@@ -22,7 +22,7 @@
     "product_type": "cap",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S013_003.jpg?v=1773463260",
     "average_score": 4.7,
-    "total_reviews": 134,
+    "total_reviews": 135,
     "top_review_text": "持った瞬間に衝撃的な軽さでした。\nキャップはいくつか使用していましたが、今までかぶったキャップの中で一番軽く、走っている最中も被っていたことを忘れてしまうことがあるくらい軽いです。\n中のワイヤーもないのでたためて持ち運びもできますし、乾くのも早く非常に使い勝手が良いです。\n別のカラーも購入したいと思っています。",
     "top_review_score": 5,
     "top_review_title": "今までかぶったキャップで一番軽い"
@@ -105,7 +105,7 @@
     "product_type": "ボトムス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S024_001.jpg?v=1773461866",
     "average_score": 4.5,
-    "total_reviews": 51,
+    "total_reviews": 52,
     "top_review_text": "程よいテーパードが効いていて普段ばきもこなし、しっかりストレッチが効いていてストレスフリーの万能パンツ。サイズは大きめなのでワンサイズダウンをおすすめします。\n私はサイズ交換をお願いし、丁寧に対応して頂けました。履きかたとしては、トレランの道中や半パンの上からシェルとして使用しています。特に電車で移動する時はパンツのスタイルの良さが車内に馴染み、気に入ってます。",
     "top_review_score": 5,
     "top_review_title": "着て走って万能パンツ"
@@ -133,7 +133,7 @@
     "product_type": "cap",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HAT_wahite.jpg?v=1724834135",
     "average_score": 4.5,
-    "total_reviews": 34,
+    "total_reviews": 35,
     "top_review_text": "暑い時期は日焼け防止や直射日光を遮るのにハットがお勧めです。このハットはコットン製のものとは異なり、軽くてトレイルランニングやハイキングにも使い勝手が良く重宝しています。\nデザインもシンプルで普段着にも合わせやすいので日常的に使うのも違和感がありません。",
     "top_review_score": 5,
     "top_review_title": "普段でもアクティビティでも使いやすい"
@@ -243,7 +243,7 @@
     "product_type": "トップス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S005_005.jpg?v=1773463391",
     "average_score": 4.7,
-    "total_reviews": 22,
+    "total_reviews": 23,
     "top_review_text": "毎日のジョグ、ランでの着用感です。\n汗の張り付きは、少なめで良いです。\n風抜けを感じますので、滝汗かいても良い感じでした。また、化繊より、防臭に優れます。山用に良いです。\nサイズ感は大きめですが、若干ルーズな方が好みなので、そこが良かったです。\nメッシュ素材が雪山のドライレイヤーとして使えるか今後試してみようと思います。メッシュ形状のものでは、山道DFメッシュメリノやアクリマライトウールスポーツシングレットも使っていますが、ウールの比率が高いものより、こちらの方が乾きが早そうで耐久性も良さそうに思いました。後は、長い距離走ったときに乳首が大丈夫かどうか…",
     "top_review_score": 5,
     "top_review_title": "ノースリーブ好きにはおすすめ"
@@ -757,6 +757,30 @@
     "top_review_title": "今も履いてます"
   },
   {
+    "id": "9041422221529",
+    "title": "UNDERCURRENT PANTS 2",
+    "link": "https://hereness.jp/products/hu-20006",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_010_002_9dee6f9b-df0f-4b1b-a784-d7beb321cbe1.jpg?v=1773460038",
+    "description": "These pants are made from recycled polyester with a texture similar to natural fibers. Despite being free of polyurethane, they offer excellent stretch, a smooth feel, and ease of care. The wide silhouette ensures freedom of movement, and the cuffs feature a drawcord for adjustable fit.(There are slight differences in the fabric and color compared to the previous product.)",
+    "price": 22000,
+    "categories": [
+      "bottoms",
+      "Long Pants",
+      "MEN",
+      "WOMEN",
+      "ポリエステル",
+      "ライフスタイル"
+    ],
+    "handle": "hu-20006",
+    "product_type": "ボトムス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S028_001.jpg?v=1773460038",
+    "average_score": 4.9,
+    "total_reviews": 8,
+    "top_review_text": "リサイクル素材、梱包方法などとても素晴らしい取り組み、地球のためにありがとうございます。色味とシルエットがとても好きです。",
+    "top_review_score": 5,
+    "top_review_title": "経営理念に共感します"
+  },
+  {
     "id": "6904251580584",
     "title": "CLASSIC RACE SINGLET(MEN)",
     "link": "https://hereness.jp/products/hm-10002",
@@ -889,30 +913,6 @@
     "top_review_text": "woolなのに想像してたより暑くない。\n柔らかい。長く着れそう。\n汗は腹の方に落ちていくので胸のあたりは濡れてない感じ。",
     "top_review_score": 4,
     "top_review_title": "タンクトップ"
-  },
-  {
-    "id": "9041422221529",
-    "title": "UNDERCURRENT PANTS 2",
-    "link": "https://hereness.jp/products/hu-20006",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_010_002_9dee6f9b-df0f-4b1b-a784-d7beb321cbe1.jpg?v=1773460038",
-    "description": "These pants are made from recycled polyester with a texture similar to natural fibers. Despite being free of polyurethane, they offer excellent stretch, a smooth feel, and ease of care. The wide silhouette ensures freedom of movement, and the cuffs feature a drawcord for adjustable fit.(There are slight differences in the fabric and color compared to the previous product.)",
-    "price": 22000,
-    "categories": [
-      "bottoms",
-      "Long Pants",
-      "MEN",
-      "WOMEN",
-      "ポリエステル",
-      "ライフスタイル"
-    ],
-    "handle": "hu-20006",
-    "product_type": "ボトムス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S028_001.jpg?v=1773460038",
-    "average_score": 5.0,
-    "total_reviews": 7,
-    "top_review_text": "リサイクル素材、梱包方法などとても素晴らしい取り組み、地球のためにありがとうございます。色味とシルエットがとても好きです。",
-    "top_review_score": 5,
-    "top_review_title": "経営理念に共感します"
   },
   {
     "id": "9126345441497",
@@ -1616,6 +1616,33 @@
     "top_review_title": "173cm Lサイズ 試着時はMでも良いかと思いましたが、少しだけ縮むと聞いたので、Lサイズで良かったです。"
   },
   {
+    "id": "9654839378137",
+    "title": "WOOL MESH TANK(WOMEN)",
+    "link": "https://hereness.jp/products/hw-10005",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_036_002.jpg?v=1776130812",
+    "description": "A mesh tank top made from a premium blended yarn of fine wool and recycled polyester. Exceptionally breathable and never clingy, this lightweight active wool tank offers an entirely new level of comfort.",
+    "price": 11000,
+    "categories": [
+      "T-shirt & Tank",
+      "tank",
+      "Tops",
+      "WOMEN",
+      "ウール",
+      "トレイルラン",
+      "ハイキング",
+      "ランニング",
+      "ランニングウェア"
+    ],
+    "handle": "hw-10005",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S032.jpg?v=1776130812",
+    "average_score": 5.0,
+    "total_reviews": 1,
+    "top_review_text": "GW3日間の縦走で終始着用してました。天気の変動が激しく、強風、雨、雪がぱらつく場面もあり最後は夏日でしたが、どのコンディションでもストレスなく行動できた点が素晴らしかったです。",
+    "top_review_score": 5,
+    "top_review_title": "体温管理の万能さ"
+  },
+  {
     "id": "9127021740249",
     "title": "13D Wind Pants",
     "link": "https://hereness.jp/products/hu-20004",
@@ -1764,33 +1791,6 @@
     "handle": "hu-20003",
     "product_type": "ロングパンツ",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S030.jpg?v=1773460408",
-    "average_score": 0,
-    "total_reviews": 0,
-    "top_review_text": "",
-    "top_review_score": 0,
-    "top_review_title": ""
-  },
-  {
-    "id": "9654839378137",
-    "title": "WOOL MESH TANK(WOMEN)",
-    "link": "https://hereness.jp/products/hw-10005",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_036_002.jpg?v=1776130812",
-    "description": "A mesh tank top made from a premium blended yarn of fine wool and recycled polyester. Exceptionally breathable and never clingy, this lightweight active wool tank offers an entirely new level of comfort.",
-    "price": 11000,
-    "categories": [
-      "T-shirt & Tank",
-      "tank",
-      "Tops",
-      "WOMEN",
-      "ウール",
-      "トレイルラン",
-      "ハイキング",
-      "ランニング",
-      "ランニングウェア"
-    ],
-    "handle": "hw-10005",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S032.jpg?v=1776130812",
     "average_score": 0,
     "total_reviews": 0,
     "top_review_text": "",
