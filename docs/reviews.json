@@ -49,7 +49,7 @@
     "product_type": "ボトムス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S020_001.jpg?v=1773463169",
     "average_score": 4.6,
-    "total_reviews": 109,
+    "total_reviews": 110,
     "top_review_text": "161cm女性です。丈が長めのランパンがほしかったのでメンズのSにしたところ、まさに理想的な長さとボリューム感でした。\n一般的な女性用のランパンより少し丈が長く、若干ふわっとしたシルエットになって安心感があります。色はグレーですがマットな質感のおかげで高級感があり、非常に良いです。暑い時期のランニングに活躍しそうです。",
     "top_review_score": 5,
     "top_review_title": "女性ですがメンズのSにしました"
@@ -1152,6 +1152,29 @@
     "top_review_title": "とても良い"
   },
   {
+    "id": "6079985483944",
+    "title": "HERENESS×KINTO TRAVEL TUMBLER 500ml",
+    "link": "https://hereness.jp/products/hu-80001",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S015.jpg?v=1773462511",
+    "description": "KINTOの定番トラベルタンブラーとコラボレーション。〈CORAL ORANGE〉は、HERENESSだけのオリジナルカラーです。",
+    "price": 3960,
+    "categories": [
+      "Accessories",
+      "ACCSESSORIES",
+      "Equipment",
+      "タンブラー",
+      "ライフスタイル"
+    ],
+    "handle": "hu-80001",
+    "product_type": "タンブラー",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S015.jpg?v=1773462511",
+    "average_score": 4.8,
+    "total_reviews": 4,
+    "top_review_text": "小さいサイズのタンブラーしか持っていなかったので、500mlサイズのタンブラーが欲しくて購入しました。\nカラーが可愛い！\n保温（保冷）もできるので、これからの季節重宝しそうです！",
+    "top_review_score": 5,
+    "top_review_title": "可愛い！"
+  },
+  {
     "id": "9335738695897",
     "title": "SHELTERING JACKET",
     "link": "https://hereness.jp/products/hu-30010",
@@ -1282,29 +1305,6 @@
     "top_review_text": "程よく大きめでgoodでした。\n滑らかな素材と他にない配色ともに調子いいです。\nお陰様でランニングに精が出ます！",
     "top_review_score": 4,
     "top_review_title": "程よく大きめでgoodでした。 滑らかな素材と他にない配色ともに調子いいです。 お陰様でランニングに精が出ます！"
-  },
-  {
-    "id": "6079985483944",
-    "title": "HERENESS×KINTO TRAVEL TUMBLER 500ml",
-    "link": "https://hereness.jp/products/hu-80001",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S015.jpg?v=1773462511",
-    "description": "KINTOの定番トラベルタンブラーとコラボレーション。〈CORAL ORANGE〉は、HERENESSだけのオリジナルカラーです。",
-    "price": 3960,
-    "categories": [
-      "Accessories",
-      "ACCSESSORIES",
-      "Equipment",
-      "タンブラー",
-      "ライフスタイル"
-    ],
-    "handle": "hu-80001",
-    "product_type": "タンブラー",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S015.jpg?v=1773462511",
-    "average_score": 4.7,
-    "total_reviews": 3,
-    "top_review_text": "小さいサイズのタンブラーしか持っていなかったので、500mlサイズのタンブラーが欲しくて購入しました。\nカラーが可愛い！\n保温（保冷）もできるので、これからの季節重宝しそうです！",
-    "top_review_score": 5,
-    "top_review_title": "可愛い！"
   },
   {
     "id": "8309330018521",
