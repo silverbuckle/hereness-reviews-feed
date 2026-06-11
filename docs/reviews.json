@@ -77,10 +77,10 @@
     "product_type": "ソックス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/HERENESS_020.jpg?v=1656400986",
     "average_score": 4.7,
-    "total_reviews": 63,
-    "top_review_text": "パタゴニアのメリノソックスと比較しても遜色のない履き心地です。まだ山谷ランで試してませんが。ほかブランドと比較してコストパフォーマンスが良いです。",
+    "total_reviews": 64,
+    "top_review_text": "20k程度のランニングで使用しましたが、クッション性も良く、ズレもないため快適でした。適度な肉厚さで好みです。デイリーからレースまでいつでも履きたいと思います。",
     "top_review_score": 5,
-    "top_review_title": "コスパが良い"
+    "top_review_title": "適度な肉厚さで好みです。"
   },
   {
     "id": "7110510870696",
@@ -139,6 +139,34 @@
     "top_review_title": "毎日快適です"
   },
   {
+    "id": "8827212726489",
+    "title": "WOOL MESH T-SHIRT(UNISEX)",
+    "link": "https://hereness.jp/products/hu-10010",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_007_001.jpg?v=1773456406",
+    "description": "This mesh T-shirt is made of high quality wool and recycled polyester intertwined yarns. This active wool T-shirt is highly breathable, does not stick to the skin, and is unprecedentedly comfortable to wear.",
+    "price": 13200,
+    "categories": [
+      "MEN",
+      "Short Sleeve",
+      "T-shirt & Tank",
+      "Tops",
+      "WOMEN",
+      "ウール",
+      "トレイルラン",
+      "ハイキング",
+      "ヨガ",
+      "ランニング"
+    ],
+    "handle": "hu-10010",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S003_001.jpg?v=1773713780",
+    "average_score": 4.7,
+    "total_reviews": 26,
+    "top_review_text": "サイズ感：XLを購入しましたが一般的なXLよりも小さめです。特に着丈が短いです(着丈が短いTシャツを探していたので満足しています) 170cm・60kgで肩幅、身幅は少しだけゆったりした程度になります。\n着心地：メッシュということもあり涼しいです。軽い感じも気に入っています。\nその他：初めLを購入しましたが小さく理想とした着用感でなかった為、XLに交換をしていただきましたが往復送料無料で対応していただきました。",
+    "top_review_score": 5,
+    "top_review_title": "軽い着心地が気に入っています。"
+  },
+  {
     "id": "7565087998169",
     "title": "SUGARCANE LONG PANTS(WOMEN)",
     "link": "https://hereness.jp/products/hw-20009",
@@ -164,34 +192,6 @@
     "top_review_text": "155cmやや太め体型です。\nレビューを読んでメンズも検討したのですが、ウエスト周りがガバガバだと困るので丈を考えウィメンズのMを購入しました。\n\nウィメンズもウエストまわり太ももまわりは余裕です。\nかなり太めのシルエット。\n丈は9分丈といった感じ。\n生地はさらっとして伸びもあり夏に活躍しそうなくらい履き心地はよいです。\nがんがん洗濯しても問題なさそうです。\n\nもう一枚欲しいと思いますが、もうちょいタイトなシルエットがいいのでSにしようか、でも丈がさらに短くなってしまうのか、、と悩ましいです。\nカラーもグレーやキャメルなどあるといいなーと希望します。",
     "top_review_score": 5,
     "top_review_title": "履き心地◎でもサイズ選び難しい"
-  },
-  {
-    "id": "8827212726489",
-    "title": "WOOL MESH T-SHIRT(UNISEX)",
-    "link": "https://hereness.jp/products/hu-10010",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_007_001.jpg?v=1773456406",
-    "description": "This mesh T-shirt is made of high quality wool and recycled polyester intertwined yarns. This active wool T-shirt is highly breathable, does not stick to the skin, and is unprecedentedly comfortable to wear.",
-    "price": 13200,
-    "categories": [
-      "MEN",
-      "Short Sleeve",
-      "T-shirt & Tank",
-      "Tops",
-      "WOMEN",
-      "ウール",
-      "トレイルラン",
-      "ハイキング",
-      "ヨガ",
-      "ランニング"
-    ],
-    "handle": "hu-10010",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S003_001.jpg?v=1773713780",
-    "average_score": 4.8,
-    "total_reviews": 24,
-    "top_review_text": "サイズ感：XLを購入しましたが一般的なXLよりも小さめです。特に着丈が短いです(着丈が短いTシャツを探していたので満足しています) 170cm・60kgで肩幅、身幅は少しだけゆったりした程度になります。\n着心地：メッシュということもあり涼しいです。軽い感じも気に入っています。\nその他：初めLを購入しましたが小さく理想とした着用感でなかった為、XLに交換をしていただきましたが往復送料無料で対応していただきました。",
-    "top_review_score": 5,
-    "top_review_title": "軽い着心地が気に入っています。"
   },
   {
     "id": "9195304419545",
