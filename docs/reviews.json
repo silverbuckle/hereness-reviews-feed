@@ -673,6 +673,30 @@
     "top_review_title": "ウールのよさを感じられるアイテムです。"
   },
   {
+    "id": "9041422221529",
+    "title": "UNDERCURRENT PANTS 2",
+    "link": "https://hereness.jp/products/hu-20006",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_010_002_9dee6f9b-df0f-4b1b-a784-d7beb321cbe1.jpg?v=1773460038",
+    "description": "These pants are made from recycled polyester with a texture similar to natural fibers. Despite being free of polyurethane, they offer excellent stretch, a smooth feel, and ease of care. The wide silhouette ensures freedom of movement, and the cuffs feature a drawcord for adjustable fit.(There are slight differences in the fabric and color compared to the previous product.)",
+    "price": 22000,
+    "categories": [
+      "bottoms",
+      "Long Pants",
+      "MEN",
+      "WOMEN",
+      "ポリエステル",
+      "ライフスタイル"
+    ],
+    "handle": "hu-20006",
+    "product_type": "ボトムス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S028_001.jpg?v=1773460038",
+    "average_score": 4.9,
+    "total_reviews": 9,
+    "top_review_text": "リサイクル素材、梱包方法などとても素晴らしい取り組み、地球のためにありがとうございます。色味とシルエットがとても好きです。",
+    "top_review_score": 5,
+    "top_review_title": "経営理念に共感します"
+  },
+  {
     "id": "6904251580584",
     "title": "CLASSIC RACE SINGLET(MEN)",
     "link": "https://hereness.jp/products/hm-10002",
@@ -753,30 +777,6 @@
     "top_review_text": "日常での履き心地はもちろん最高です。\n先日40kmのランニングにも着用してみましたが、スレ、ニオイ、汗冷えなど全く問題無しでした。\n毎日履きたいから買い増します〜",
     "top_review_score": 5,
     "top_review_title": "今も履いてます"
-  },
-  {
-    "id": "9041422221529",
-    "title": "UNDERCURRENT PANTS 2",
-    "link": "https://hereness.jp/products/hu-20006",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_010_002_9dee6f9b-df0f-4b1b-a784-d7beb321cbe1.jpg?v=1773460038",
-    "description": "These pants are made from recycled polyester with a texture similar to natural fibers. Despite being free of polyurethane, they offer excellent stretch, a smooth feel, and ease of care. The wide silhouette ensures freedom of movement, and the cuffs feature a drawcord for adjustable fit.(There are slight differences in the fabric and color compared to the previous product.)",
-    "price": 22000,
-    "categories": [
-      "bottoms",
-      "Long Pants",
-      "MEN",
-      "WOMEN",
-      "ポリエステル",
-      "ライフスタイル"
-    ],
-    "handle": "hu-20006",
-    "product_type": "ボトムス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S028_001.jpg?v=1773460038",
-    "average_score": 4.9,
-    "total_reviews": 8,
-    "top_review_text": "リサイクル素材、梱包方法などとても素晴らしい取り組み、地球のためにありがとうございます。色味とシルエットがとても好きです。",
-    "top_review_score": 5,
-    "top_review_title": "経営理念に共感します"
   },
   {
     "id": "6763738595496",
