@@ -133,7 +133,7 @@
     "product_type": "ソックス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/HERENESS_023.jpg?v=1656400904",
     "average_score": 4.6,
-    "total_reviews": 33,
+    "total_reviews": 34,
     "top_review_text": "走る日も走らない日も、夏でも冬でも毎日履いています。\nとても快適な靴下で、一度履くと手放せなくなります。\nショート丈の再入荷を待っています。",
     "top_review_score": 5,
     "top_review_title": "毎日快適です"
@@ -161,7 +161,7 @@
     "product_type": "トップス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S003_001.jpg?v=1773713780",
     "average_score": 4.7,
-    "total_reviews": 27,
+    "total_reviews": 28,
     "top_review_text": "177cm・70kgでLサイズを購入しました。\n自分には少しゆったりめでちょうど良いサイズ感です。\n同じ生地のタンクトップを先に購入し、見た目も着心地もとても気に入ったので、こちらのTシャツも購入しました。期待どおり着心地は最高で、ランニング中も快適に走れます。サイズ感やシルエットも自分好みで、軽さもちょうどよくストレスなく着用できます。とても満足しているので、良い商品を作っていただき感謝しています！",
     "top_review_score": 5,
     "top_review_title": "着心地最高です！"
@@ -188,7 +188,7 @@
     "product_type": "トップス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S005_005.jpg?v=1773463391",
     "average_score": 4.7,
-    "total_reviews": 26,
+    "total_reviews": 27,
     "top_review_text": "毎日のジョグ、ランでの着用感です。\n汗の張り付きは、少なめで良いです。\n風抜けを感じますので、滝汗かいても良い感じでした。また、化繊より、防臭に優れます。山用に良いです。\nサイズ感は大きめですが、若干ルーズな方が好みなので、そこが良かったです。\nメッシュ素材が雪山のドライレイヤーとして使えるか今後試してみようと思います。メッシュ形状のものでは、山道DFメッシュメリノやアクリマライトウールスポーツシングレットも使っていますが、ウールの比率が高いものより、こちらの方が乾きが早そうで耐久性も良さそうに思いました。後は、長い距離走ったときに乳首が大丈夫かどうか…",
     "top_review_score": 5,
     "top_review_title": "ノースリーブ好きにはおすすめ"
@@ -435,6 +435,34 @@
     "top_review_title": "全然寒くない！"
   },
   {
+    "id": "9092765548761",
+    "title": "DRY WOOL T-SHIRT 2(UNISEX)",
+    "link": "https://hereness.jp/products/hu-10014",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_023_001.jpg?v=1773456266",
+    "description": "Made of high quality wool and recycled polyester intertwined yarns. This T-shirt combines the quick-drying and durable properties of polyester with the feel of wool.(The length has been increased compared to the previous model.)",
+    "price": 13200,
+    "categories": [
+      "MEN",
+      "Short Sleeve",
+      "T-shirt & Tank",
+      "Tops",
+      "WOMEN",
+      "ウール",
+      "トレイルラン",
+      "ハイキング",
+      "ヨガ",
+      "ランニング"
+    ],
+    "handle": "hu-10014",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S002_002.jpg?v=1773463542",
+    "average_score": 4.5,
+    "total_reviews": 11,
+    "top_review_text": "40代男性、172cm、66kgでMサイズを購入しました。程よくゆとりがあり動きやすい上、ダボっともしない大人っぽいサイズ感です。光沢とドレープ感が美しい一方、家庭で洗濯しても縮まないことが大変素晴らしいです！！\nはい、早速買い足しました。",
+    "top_review_score": 5,
+    "top_review_title": "良い買い物をしました"
+  },
+  {
     "id": "7960517902553",
     "title": "Econyl®︎  TRAIL JOGGER (MEN)",
     "link": "https://hereness.jp/products/hm-20011",
@@ -540,34 +568,6 @@
     "top_review_text": "行動中（自転車のツーリング、途中ハードな上りあり）、何も考えずに着っぱなしで快適をかなえてくれました。\nいい感じに体温調整してくれる、通気性がいいからムレない、何より軽い！\nこれからのシーズン、バックカントリー時の大汗をかくハイクにも重宝しそうでワクワクしています。\nあとは耐久性か。薄手なのでそれが心配。\nこれから時間をかけてテストしていこうと思います。",
     "top_review_score": 5,
     "top_review_title": "秋の自転車ロングライドに最高"
-  },
-  {
-    "id": "9092765548761",
-    "title": "DRY WOOL T-SHIRT 2(UNISEX)",
-    "link": "https://hereness.jp/products/hu-10014",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_023_001.jpg?v=1773456266",
-    "description": "Made of high quality wool and recycled polyester intertwined yarns. This T-shirt combines the quick-drying and durable properties of polyester with the feel of wool.(The length has been increased compared to the previous model.)",
-    "price": 13200,
-    "categories": [
-      "MEN",
-      "Short Sleeve",
-      "T-shirt & Tank",
-      "Tops",
-      "WOMEN",
-      "ウール",
-      "トレイルラン",
-      "ハイキング",
-      "ヨガ",
-      "ランニング"
-    ],
-    "handle": "hu-10014",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S002_002.jpg?v=1773463542",
-    "average_score": 4.6,
-    "total_reviews": 10,
-    "top_review_text": "40代男性、172cm、66kgでMサイズを購入しました。程よくゆとりがあり動きやすい上、ダボっともしない大人っぽいサイズ感です。光沢とドレープ感が美しい一方、家庭で洗濯しても縮まないことが大変素晴らしいです！！\nはい、早速買い足しました。",
-    "top_review_score": 5,
-    "top_review_title": "良い買い物をしました"
   },
   {
     "id": "7960522817753",
