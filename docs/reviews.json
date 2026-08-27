@@ -49,10 +49,10 @@
     "product_type": "ボトムス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S020_001.jpg?v=1773463169",
     "average_score": 4.6,
-    "total_reviews": 108,
-    "top_review_text": "履き心地が最高すぎて、追加でもう一枚と、恋人にもプレゼントしました🎵カラーも豊富で選ぶのが楽しかったし、とっても喜んでもらえました〜！🩳\n\n個人的に、鍵と小銭、頑張れば携帯をバックポケットに入れて、ふらっと走りに行けるのが推しポイントです✌️そしてすぐ乾く！",
+    "total_reviews": 110,
+    "top_review_text": "161cm女性です。丈が長めのランパンがほしかったのでメンズのSにしたところ、まさに理想的な長さとボリューム感でした。\n一般的な女性用のランパンより少し丈が長く、若干ふわっとしたシルエットになって安心感があります。色はグレーですがマットな質感のおかげで高級感があり、非常に良いです。暑い時期のランニングに活躍しそうです。",
     "top_review_score": 5,
-    "top_review_title": "快適！かわいい！最高！"
+    "top_review_title": "女性ですがメンズのSにしました"
   },
   {
     "id": "6053860737192",
@@ -615,11 +615,36 @@
     "handle": "hu-20001",
     "product_type": "ボトムス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/SQ_WOOL_SHORTS_BK.jpg?v=1680830291",
-    "average_score": 4.3,
-    "total_reviews": 9,
+    "average_score": 4.4,
+    "total_reviews": 10,
     "top_review_text": "164cm57キロで表記寸法からXSを選びました。\n届いたものを実測するとワタリが表記寸法より狭かったです（34→30程度）\n\nサイズとしてはジャストで足上げも抵抗もなく快適です。\n股下が短いのでランパンのサイズ感。\n\n大体実寸を信用していいので、手持ちのショーツと比較するのがいいと思います。\n\nXS、S等のサイズ表記から言うと大きめです。\n\n生地はある程度の厚みと張りがあり強度はありそうです。\n\nナイロンパンツに比べて肌触りが良いので気持ちよく履けます。",
     "top_review_score": 4,
     "top_review_title": "サイズ選び注意"
+  },
+  {
+    "id": "7197709861081",
+    "title": "REAL WOOL FLEECE(MEN)",
+    "link": "https://hereness.jp/products/hm-30003",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/WOOL_BLACK.jpg?v=1766824968",
+    "description": "This fleece jacket features New Zealand merino wool. It is biodegradable and environmentally friendly, allowing you to enjoy the warmth and comfort of sheep's wool sustainably.",
+    "price": 25300,
+    "categories": [
+      "jacket",
+      "MEN",
+      "Outer & Jacket",
+      "Tops",
+      "Woolpolyester",
+      "ウール",
+      "ライフスタイル"
+    ],
+    "handle": "hm-30003",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/WOOL_BLACK.jpg?v=1766824968",
+    "average_score": 4.4,
+    "total_reviews": 9,
+    "top_review_text": "ウールは着心地と暖かさともに素晴らしく、デザインも基本的に素晴らしいです。少しロゴが大きすぎるので、この半分くらいのサイズにしてもらえると尚よしです。\nあえて心配する点があるとすれば、チャックと袖口の耐久性がどれだけあるかが少し気になります。",
+    "top_review_score": 4,
+    "top_review_title": "着心地や暖かさは素晴らしいが、何年もつかが気になる"
   },
   {
     "id": "7476143980761",
@@ -643,9 +668,37 @@
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/WOOL_WIND_BLACK.jpg?v=1656401948",
     "average_score": 4.7,
     "total_reviews": 9,
-    "top_review_text": "自転車通勤用に購入。ウール製とは思えない肌触りで、防風機能にも満足です。\n\nこれは個人的な問題ですが、思いの外、サイズ大きめな作りで、Mサイズが一般的なLサイズに相当する印象です。Sを買うべきだったなあ",
+    "top_review_text": "デザインはシンプルですが、全体的に少しゆとりがあって今っぽいシルエットでおしゃれです。\n袖のテープと、裾のドローコードがありますが、首もとがゆるいので風か入ります。寒い時はネックウォーマーが必要です。\nウールなので、多少の汗なら洗濯せずとも匂いも気にならないのがうれしい。",
     "top_review_score": 4,
-    "top_review_title": "とても満足"
+    "top_review_title": "ウールのよさを感じられるアイテムです。"
+  },
+  {
+    "id": "9102583398617",
+    "title": "SMOOTH WOOL T-SHIRT 2(UNISEX)",
+    "link": "https://hereness.jp/products/hu-10012",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_001_001.jpg?v=1773456046",
+    "description": "Our Smooth Wool T-shirt is made of ultra-fine 17.5-micron merino yarn. Its signature super soft feel will forever change the way you think about wool, and is great for hiking and any activities in your active lifestyle.",
+    "price": 13200,
+    "categories": [
+      "MEN",
+      "Short Sleeve",
+      "T-shirt & Tank",
+      "Tops",
+      "WOMEN",
+      "ウール",
+      "トレイルラン",
+      "ハイキング",
+      "ヨガ",
+      "ランニング"
+    ],
+    "handle": "hu-10012",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S001_007.jpg?v=1773463507",
+    "average_score": 4.3,
+    "total_reviews": 9,
+    "top_review_text": "ウール100%のTシャツを初めて購入しました。蒸れずに常にサラサラ、それでいて寒くなく快適です。買ってよかった一枚です",
+    "top_review_score": 5,
+    "top_review_title": "ウールの着心地の良さ"
   },
   {
     "id": "8097679704281",
@@ -778,34 +831,6 @@
     "top_review_title": "夏こそ涼しく快適に！"
   },
   {
-    "id": "9102583398617",
-    "title": "SMOOTH WOOL T-SHIRT 2(UNISEX)",
-    "link": "https://hereness.jp/products/hu-10012",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_001_001.jpg?v=1773456046",
-    "description": "Our Smooth Wool T-shirt is made of ultra-fine 17.5-micron merino yarn. Its signature super soft feel will forever change the way you think about wool, and is great for hiking and any activities in your active lifestyle.",
-    "price": 13200,
-    "categories": [
-      "MEN",
-      "Short Sleeve",
-      "T-shirt & Tank",
-      "Tops",
-      "WOMEN",
-      "ウール",
-      "トレイルラン",
-      "ハイキング",
-      "ヨガ",
-      "ランニング"
-    ],
-    "handle": "hu-10012",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S001_007.jpg?v=1773463507",
-    "average_score": 4.1,
-    "total_reviews": 7,
-    "top_review_text": "ウール100%のTシャツを初めて購入しました。蒸れずに常にサラサラ、それでいて寒くなく快適です。買ってよかった一枚です",
-    "top_review_score": 5,
-    "top_review_title": "ウールの着心地の良さ"
-  },
-  {
     "id": "7524288889049",
     "title": "SOFT MERINO BEANIE",
     "link": "https://hereness.jp/products/hu-40004",
@@ -829,9 +854,9 @@
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S014_001.jpg?v=1773461710",
     "average_score": 4.1,
     "total_reviews": 7,
-    "top_review_text": "装着感、デザインともに完璧！！！\n保温性も優しい暖かさで、暑くなりすぎない。\n本当に買ってよかったです。\n別色も購入させていただきました。",
+    "top_review_text": "通販では、サイズ感に不安がありましたが、目深にしても頭頂部に少し余裕がある出来る感じで私的にはピッタリでした。（頭囲56cm位)\nここのウールのロンT同様、軽やかで暖かく、この冬は手放せなくなりそうです。",
     "top_review_score": 5,
-    "top_review_title": "完璧！！！買ってよかった！！！"
+    "top_review_title": "大満足です。"
   },
   {
     "id": "9126345441497",
@@ -960,9 +985,9 @@
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/DSC00206.jpg?v=1656402642",
     "average_score": 4.7,
     "total_reviews": 6,
-    "top_review_text": "軽く、柔らかく、チクチクしない快適な着心地でした。\n旅行でコンパクトに持参しましたが、しわにならずキレイに着れました。",
+    "top_review_text": "ウールTのアンダー用に同素材を勧めていただき157cmで一番小さいサイズを購入しました\nウールTより地厚ですが汗をかいても快適でした　身ごろはゆったりですが首元がタイト、体に馴染むので着心地もいいです　ボディラインに自信が付けばスポーツブラにこれ！の組み合わせがいいと思います、ファイト！",
     "top_review_score": 5,
-    "top_review_title": "快適な着心地"
+    "top_review_title": "ふんわりと気持ちが良いです"
   },
   {
     "id": "8198813319385",
@@ -1094,6 +1119,34 @@
     "top_review_title": "可愛い！"
   },
   {
+    "id": "9335738695897",
+    "title": "SHELTERING JACKET",
+    "link": "https://hereness.jp/products/hu-30010",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_018_002.jpg?v=1773459403",
+    "description": "An outerwear-grade insulated jacket filled with PrimaLoft® Gold (100% recycled) and encased in 13-denier recycled nylon with a C0 water-repellent coating.",
+    "price": 49500,
+    "categories": [
+      "jacket",
+      "MEN",
+      "Outer & Jacket",
+      "RECYCLED POLYESTER",
+      "Tops",
+      "UNISEX",
+      "WOMEN",
+      "ナイロン",
+      "ハイキング",
+      "ライフスタイル"
+    ],
+    "handle": "hu-30010",
+    "product_type": "ジャケット",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S010_003.jpg?v=1773463326",
+    "average_score": 5.0,
+    "total_reviews": 4,
+    "top_review_text": "179cm,59kgのやせ型でMサイズでちょうどよかったです。\n軽いのにとても暖かくて比較的温暖な地域なので冬はこれだけで乗り切れそうです。\n裾のアジャスター、ダブルジッパーが便利です。オレンジ色の紐もアクセントになって気に入ってます。",
+    "top_review_score": 5,
+    "top_review_title": "軽い、温かい、ミニマル"
+  },
+  {
     "id": "7476140769497",
     "title": "SUGARCANE KAPOK JACKET(MEN)",
     "link": "https://hereness.jp/products/hm-30005",
@@ -1114,9 +1167,9 @@
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/KAPOCK_M_B.jpg?v=1701658009",
     "average_score": 4.8,
     "total_reviews": 4,
-    "top_review_text": "思った通りの軽さ暖かさで最高\n165㎝59kg Sサイズで丁度良くもあり余裕がある感じ\n注文間違いしたがすぐ対応して頂き感謝です",
+    "top_review_text": "175センチ70キロSサイズでも余裕あり。Mはでかすぎた。軽くて暖かくて着ていて楽だけどシルエットも良く着心地最高！通勤でも私生活でも毎日着ている。他のダウン着る気が、なくなるくらい最高な良い買い物だった",
     "top_review_score": 5,
-    "top_review_title": "軽くて暖かくて最高"
+    "top_review_title": "最高すぎ"
   },
   {
     "id": "9127020495065",
@@ -1196,59 +1249,6 @@
     "top_review_text": "程よく大きめでgoodでした。\n滑らかな素材と他にない配色ともに調子いいです。\nお陰様でランニングに精が出ます！",
     "top_review_score": 4,
     "top_review_title": "程よく大きめでgoodでした。 滑らかな素材と他にない配色ともに調子いいです。 お陰様でランニングに精が出ます！"
-  },
-  {
-    "id": "7197709861081",
-    "title": "REAL WOOL FLEECE(MEN)",
-    "link": "https://hereness.jp/products/hm-30003",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/WOOL_BLACK.jpg?v=1766824968",
-    "description": "This fleece jacket features New Zealand merino wool. It is biodegradable and environmentally friendly, allowing you to enjoy the warmth and comfort of sheep's wool sustainably.",
-    "price": 25300,
-    "categories": [
-      "jacket",
-      "MEN",
-      "Outer & Jacket",
-      "Tops",
-      "Woolpolyester",
-      "ウール",
-      "ライフスタイル"
-    ],
-    "handle": "hm-30003",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/WOOL_BLACK.jpg?v=1766824968",
-    "average_score": 4.3,
-    "total_reviews": 3,
-    "top_review_text": "ウールは着心地と暖かさともに素晴らしく、デザインも基本的に素晴らしいです。少しロゴが大きすぎるので、この半分くらいのサイズにしてもらえると尚よしです。\nあえて心配する点があるとすれば、チャックと袖口の耐久性がどれだけあるかが少し気になります。",
-    "top_review_score": 4,
-    "top_review_title": "着心地や暖かさは素晴らしいが、何年もつかが気になる"
-  },
-  {
-    "id": "9335738695897",
-    "title": "SHELTERING JACKET",
-    "link": "https://hereness.jp/products/hu-30010",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_018_002.jpg?v=1773459403",
-    "description": "An outerwear-grade insulated jacket filled with PrimaLoft® Gold (100% recycled) and encased in 13-denier recycled nylon with a C0 water-repellent coating.",
-    "price": 49500,
-    "categories": [
-      "jacket",
-      "MEN",
-      "Outer & Jacket",
-      "RECYCLED POLYESTER",
-      "Tops",
-      "UNISEX",
-      "WOMEN",
-      "ナイロン",
-      "ハイキング",
-      "ライフスタイル"
-    ],
-    "handle": "hu-30010",
-    "product_type": "ジャケット",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S010_003.jpg?v=1773463326",
-    "average_score": 5.0,
-    "total_reviews": 3,
-    "top_review_text": "軽さと温かさとちょうどいい丈におどろきました。ありがとうございました。他のウエアも試してみたいと思います。",
-    "top_review_score": 5,
-    "top_review_title": "軽さと温かさとちょうどよさ"
   },
   {
     "id": "8309330018521",
@@ -1613,6 +1613,32 @@
     "top_review_title": "軽く、シルエットがいい"
   },
   {
+    "id": "9339394556121",
+    "title": "REAL WOOL FLANNEL SHIRT",
+    "link": "https://hereness.jp/products/hu-30011",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_031_008.jpg?v=1773459523",
+    "description": "This flannel shirt is crafted from 18-micron non-mulesed wool, offering a soft yet resilient texture. The brushed finish enhances both warmth and breathability, combining gentle comfort with lasting durability.",
+    "price": 24200,
+    "categories": [
+      "MEN",
+      "shirts",
+      "Tops",
+      "WOMEN",
+      "wool",
+      "ウール",
+      "ナイロン",
+      "ライフスタイル"
+    ],
+    "handle": "hu-30011",
+    "product_type": "シャツ",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S016_002.jpg?v=1773463309",
+    "average_score": 5.0,
+    "total_reviews": 1,
+    "top_review_text": "173cm Lサイズ\n試着時はMでも良いかと思いましたが、少しだけ縮むと聞いたので、Lサイズで良かったです。",
+    "top_review_score": 5,
+    "top_review_title": "173cm Lサイズ 試着時はMでも良いかと思いましたが、少しだけ縮むと聞いたので、Lサイズで良かったです。"
+  },
+  {
     "id": "9654839378137",
     "title": "WOOL MESH TANK(WOMEN)",
     "link": "https://hereness.jp/products/hw-10005",
@@ -1764,32 +1790,6 @@
     "handle": "hu-20003",
     "product_type": "ロングパンツ",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S030.jpg?v=1773460408",
-    "average_score": 0,
-    "total_reviews": 0,
-    "top_review_text": "",
-    "top_review_score": 0,
-    "top_review_title": ""
-  },
-  {
-    "id": "9339394556121",
-    "title": "REAL WOOL FLANNEL SHIRT",
-    "link": "https://hereness.jp/products/hu-30011",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_031_008.jpg?v=1773459523",
-    "description": "This flannel shirt is crafted from 18-micron non-mulesed wool, offering a soft yet resilient texture. The brushed finish enhances both warmth and breathability, combining gentle comfort with lasting durability.",
-    "price": 24200,
-    "categories": [
-      "MEN",
-      "shirts",
-      "Tops",
-      "WOMEN",
-      "wool",
-      "ウール",
-      "ナイロン",
-      "ライフスタイル"
-    ],
-    "handle": "hu-30011",
-    "product_type": "シャツ",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S016_002.jpg?v=1773463309",
     "average_score": 0,
     "total_reviews": 0,
     "top_review_text": "",
