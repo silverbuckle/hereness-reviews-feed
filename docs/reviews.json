@@ -376,7 +376,7 @@
     "product_type": "トップス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/CALM_JACKET_GRAY.jpg?v=1758792675",
     "average_score": 4.8,
-    "total_reviews": 13,
+    "total_reviews": 14,
     "top_review_text": "ランニング用にセットアップでCRIMSON REDを購入して良かったので洗濯した時用にblackのセットアップも購入しました。寝る時や家で休日を過ごす時に着ています。\n肌触りとユルすぎずタイトすぎないフィット感が丁度良いです。ジムやスポーツ系のイベント、大会の時にもちょっと着ていけて便利です",
     "top_review_score": 5,
     "top_review_title": "丁度良い"
@@ -1199,6 +1199,31 @@
     "top_review_title": "フーディニと比べても"
   },
   {
+    "id": "7640357634265",
+    "title": "AIRLY COTTON TANK(WOMEN)",
+    "link": "https://hereness.jp/products/hw-10003",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/TANK_C_B_W.jpg?v=1713756250",
+    "description": "Our AIRLY COTTON TANK is made from finely woven organic cotton threads, making it super thin and light.Unlike other cotton tees, this is soft, comfortable, and dries quickly.",
+    "price": 6600,
+    "categories": [
+      "cotton",
+      "T-shirt & Tank",
+      "tank",
+      "Tops",
+      "WOMEN",
+      "コットン",
+      "ランニング"
+    ],
+    "handle": "hw-10003",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/TANK_C_B_W.jpg?v=1713756250",
+    "average_score": 4.3,
+    "total_reviews": 3,
+    "top_review_text": "記事も形も色も良かった。ただSと事前に購入したMを比べても差がなく　サイズ表記も見当たらない。今後着ていきながらまた購入するかは様子見ます。",
+    "top_review_score": 4,
+    "top_review_title": "サイズがsもmも似ている"
+  },
+  {
     "id": "6899247415464",
     "title": "CLASSIC RACE SHORTS(MEN)",
     "link": "https://hereness.jp/products/hm-20005",
@@ -1249,31 +1274,6 @@
     "top_review_text": "brownの発色が綺麗で一目惚れしました。\n適度な厚みがあるので、十分暖かいです。\nジーンズにもスラックスにも合うオールラウンダーです。",
     "top_review_score": 5,
     "top_review_title": "発色が綺麗"
-  },
-  {
-    "id": "7640357634265",
-    "title": "AIRLY COTTON TANK(WOMEN)",
-    "link": "https://hereness.jp/products/hw-10003",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/TANK_C_B_W.jpg?v=1713756250",
-    "description": "Our AIRLY COTTON TANK is made from finely woven organic cotton threads, making it super thin and light.Unlike other cotton tees, this is soft, comfortable, and dries quickly.",
-    "price": 6600,
-    "categories": [
-      "cotton",
-      "T-shirt & Tank",
-      "tank",
-      "Tops",
-      "WOMEN",
-      "コットン",
-      "ランニング"
-    ],
-    "handle": "hw-10003",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/TANK_C_B_W.jpg?v=1713756250",
-    "average_score": 4.5,
-    "total_reviews": 2,
-    "top_review_text": "記事も形も色も良かった。ただSと事前に購入したMを比べても差がなく　サイズ表記も見当たらない。今後着ていきながらまた購入するかは様子見ます。",
-    "top_review_score": 4,
-    "top_review_title": "サイズがsもmも似ている"
   },
   {
     "id": "9375923929305",
