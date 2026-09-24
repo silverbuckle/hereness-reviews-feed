@@ -407,6 +407,31 @@
     "top_review_title": "肌触り、上品な発色の良さ、どれも気に入っております。 洗濯を繰り返すので、パッドの入り口がもうすこし強くても、良いかもしれないなぁと思ってます"
   },
   {
+    "id": "9066064216281",
+    "title": "FLUFFY WOOL SWEAT",
+    "link": "https://hereness.jp/products/hu-30007",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/WOOL_SWEAT_01.jpg?v=1732251995",
+    "description": "A soft, fleece-lined wool sweatshirt with a fluffy, comfortable feel. While the relaxed silhouette offers a generous fit, the high-quality outer fabric makes it versatile enough to wear as everyday attire.",
+    "price": 26400,
+    "categories": [
+      "Knit",
+      "MEN",
+      "Tops",
+      "UNISEX",
+      "WOMEN",
+      "ウール",
+      "ライフスタイル"
+    ],
+    "handle": "hu-30007",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/WOOL_SWEAT_01.jpg?v=1732251995",
+    "average_score": 4.7,
+    "total_reviews": 13,
+    "top_review_text": "ウールのスウェットを探していたら、とあるミニマリストの方が着ていて購入。\n軽くて、暖かいし、色味も普通の黒じゃないのでおしゃれですが、運転中使用するとシートベルトで毛玉が気になりました。ウールなので仕方ないですが、洗濯してみてこれからどうなるか。168cm　55キロMサイズを購入しましたが、着丈は結構長めです。色味と軽さと暖かさは至高です。",
+    "top_review_score": 4,
+    "top_review_title": "軽くて、暖かくて"
+  },
+  {
     "id": "9083149713625",
     "title": "DRY WOOL T-SHIRT LONG SLEEVE 2(UNISEX)",
     "link": "https://hereness.jp/products/hu-10015",
@@ -515,31 +540,6 @@
     "top_review_text": "スマホ必携の東京マラソン用に購入しました。試しにフルマラソンで着用しました。ベストポジションの為違和感なくスマホをポケットに入れて走ることができました。揺れることもたるむこともありませんでした。\n181cm,64kgやせ型でLからMにサイズ変更してもらいました。送料負担してくれて交換も早く助かりました。",
     "top_review_score": 5,
     "top_review_title": "スマホぴったり"
-  },
-  {
-    "id": "9066064216281",
-    "title": "FLUFFY WOOL SWEAT",
-    "link": "https://hereness.jp/products/hu-30007",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/WOOL_SWEAT_01.jpg?v=1732251995",
-    "description": "A soft, fleece-lined wool sweatshirt with a fluffy, comfortable feel. While the relaxed silhouette offers a generous fit, the high-quality outer fabric makes it versatile enough to wear as everyday attire.",
-    "price": 26400,
-    "categories": [
-      "Knit",
-      "MEN",
-      "Tops",
-      "UNISEX",
-      "WOMEN",
-      "ウール",
-      "ライフスタイル"
-    ],
-    "handle": "hu-30007",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/WOOL_SWEAT_01.jpg?v=1732251995",
-    "average_score": 4.7,
-    "total_reviews": 11,
-    "top_review_text": "ウールのスウェットを探していたら、とあるミニマリストの方が着ていて購入。\n軽くて、暖かいし、色味も普通の黒じゃないのでおしゃれですが、運転中使用するとシートベルトで毛玉が気になりました。ウールなので仕方ないですが、洗濯してみてこれからどうなるか。168cm　55キロMサイズを購入しましたが、着丈は結構長めです。色味と軽さと暖かさは至高です。",
-    "top_review_score": 4,
-    "top_review_title": "軽くて、暖かくて"
   },
   {
     "id": "9029231149273",
@@ -1815,6 +1815,34 @@
     "handle": "hu-10018",
     "product_type": "トップス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_007.jpg?v=1785370541",
+    "average_score": 0,
+    "total_reviews": 0,
+    "top_review_text": "",
+    "top_review_score": 0,
+    "top_review_title": ""
+  },
+  {
+    "id": "9780109770969",
+    "title": "WOOL MESH T-SHIRT LONG SLEEVE(UNISEX)",
+    "link": "https://hereness.jp/products/hu-10021",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_003.jpg?v=1785370454",
+    "description": "This mesh T-shirt is made of high quality wool and recycled polyester intertwined yarns. This active wool T-shirt is highly breathable, does not stick to the skin, and is unprecedentedly comfortable to wear.",
+    "price": 15400,
+    "categories": [
+      "Long Sleeve",
+      "MEN",
+      "T-shirt & Tank",
+      "Tops",
+      "WOMEN",
+      "ウール",
+      "トレイルラン",
+      "ハイキング",
+      "ヨガ",
+      "ランニング"
+    ],
+    "handle": "hu-10021",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S005_006.jpg?v=1773713145",
     "average_score": 0,
     "total_reviews": 0,
     "top_review_text": "",
