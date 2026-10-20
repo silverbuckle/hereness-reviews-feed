@@ -161,7 +161,7 @@
     "product_type": "トップス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S003_001.jpg?v=1773713780",
     "average_score": 4.7,
-    "total_reviews": 28,
+    "total_reviews": 29,
     "top_review_text": "177cm・70kgでLサイズを購入しました。\n自分には少しゆったりめでちょうど良いサイズ感です。\n同じ生地のタンクトップを先に購入し、見た目も着心地もとても気に入ったので、こちらのTシャツも購入しました。期待どおり着心地は最高で、ランニング中も快適に走れます。サイズ感やシルエットも自分好みで、軽さもちょうどよくストレスなく着用できます。とても満足しているので、良い商品を作っていただき感謝しています！",
     "top_review_score": 5,
     "top_review_title": "着心地最高です！"
@@ -1639,6 +1639,31 @@
     "top_review_title": "173cm Lサイズ 試着時はMでも良いかと思いましたが、少しだけ縮むと聞いたので、Lサイズで良かったです。"
   },
   {
+    "id": "9818075332825",
+    "title": "WOOL LIGHT HOODIE(UNISEX)",
+    "link": "https://hereness.jp/products/hu-10018",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_009.jpg?v=1785370541",
+    "description": "A lightweight, supple hoodie knit from 〈AXIO LITE〉, an ultrafine yarn of 84% wool and 16% polyester. It shields you from the sun while protecting against both heat and cold.",
+    "price": 16500,
+    "categories": [
+      "Long Sleeve",
+      "MEN",
+      "Tops",
+      "UNISEX",
+      "WOMEN",
+      "wool",
+      "ハイキング"
+    ],
+    "handle": "hu-10018",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_007.jpg?v=1785370541",
+    "average_score": 5.0,
+    "total_reviews": 1,
+    "top_review_text": "１０月中旬のハイキングで使用しました。なかなか汗をかきましたが、脱いで風に当てるとすぐ乾く速乾性能があります。絶妙な赤の色味が気に入っています。\n男　175センチ　62キロ　Mサイズで少しゆとりあり",
+    "top_review_score": 5,
+    "top_review_title": "秋のハイキングに最適"
+  },
+  {
     "id": "9780109770969",
     "title": "WOOL MESH T-SHIRT LONG SLEEVE(UNISEX)",
     "link": "https://hereness.jp/products/hu-10021",
@@ -1818,31 +1843,6 @@
     "handle": "hu-20003",
     "product_type": "ロングパンツ",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S030.jpg?v=1773460408",
-    "average_score": 0,
-    "total_reviews": 0,
-    "top_review_text": "",
-    "top_review_score": 0,
-    "top_review_title": ""
-  },
-  {
-    "id": "9818075332825",
-    "title": "WOOL LIGHT HOODIE(UNISEX)",
-    "link": "https://hereness.jp/products/hu-10018",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_009.jpg?v=1785370541",
-    "description": "A lightweight, supple hoodie knit from 〈AXIO LITE〉, an ultrafine yarn of 84% wool and 16% polyester. It shields you from the sun while protecting against both heat and cold.",
-    "price": 16500,
-    "categories": [
-      "Long Sleeve",
-      "MEN",
-      "Tops",
-      "UNISEX",
-      "WOMEN",
-      "wool",
-      "ハイキング"
-    ],
-    "handle": "hu-10018",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_007.jpg?v=1785370541",
     "average_score": 0,
     "total_reviews": 0,
     "top_review_text": "",
