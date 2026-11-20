@@ -77,10 +77,10 @@
     "product_type": "ソックス",
     "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/HERENESS_020.jpg?v=1656400986",
     "average_score": 4.7,
-    "total_reviews": 66,
-    "top_review_text": "20k程度のランニングで使用しましたが、クッション性も良く、ズレもないため快適でした。適度な肉厚さで好みです。デイリーからレースまでいつでも履きたいと思います。",
+    "total_reviews": 67,
+    "top_review_text": "本気でレビューさせて頂きます。使用はビジネス、ジム、トレイル、タウンユース。試験的に7日間洗わず着用し7日経過後も無臭。普通に1日履いて洗濯と乾燥機も試し3足をローテで365日毎日履きヘタリ破れゼロ、履心地（リブ部圧迫感なし足首をソフトにホールド）通気性、保温性、耐久性、消臭性全て満点の評価。",
     "top_review_score": 5,
-    "top_review_title": "適度な肉厚さで好みです。"
+    "top_review_title": "とても満足より上の評価を付けたい"
   },
   {
     "id": "7110510870696",
@@ -277,6 +277,32 @@
     "top_review_title": "期待通り！"
   },
   {
+    "id": "7197461086425",
+    "title": "CALM JACKET(MEN)",
+    "link": "https://hereness.jp/products/hm-30001",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/CALM_JACKET_GRAY.jpg?v=1758792675",
+    "description": "The CALM JACKET is made from RENU®, a recycled polyester made from old clothing and fabric scraps from apparel production. Thanks to a special production method, the jacket is so light you might forget you are wearing it.",
+    "price": 12000,
+    "categories": [
+      "jacket",
+      "MEN",
+      "Outer & Jacket",
+      "polyester",
+      "RECYCLED POLYESTER",
+      "Tops",
+      "ポリエステル",
+      "ランニング"
+    ],
+    "handle": "hm-30001",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/CALM_JACKET_GRAY.jpg?v=1758792675",
+    "average_score": 4.8,
+    "total_reviews": 15,
+    "top_review_text": "ランニング用にセットアップでCRIMSON REDを購入して良かったので洗濯した時用にblackのセットアップも購入しました。寝る時や家で休日を過ごす時に着ています。\n肌触りとユルすぎずタイトすぎないフィット感が丁度良いです。ジムやスポーツ系のイベント、大会の時にもちょっと着ていけて便利です",
+    "top_review_score": 5,
+    "top_review_title": "丁度良い"
+  },
+  {
     "id": "7197464461529",
     "title": "CALM JOGGER(MEN)",
     "link": "https://hereness.jp/products/hm-20006",
@@ -354,32 +380,6 @@
     "top_review_text": "毎日のベースジョグ時にピッタリです。暑い日はそのままカジュアルスタイルのシティコーデにも使っています。163cm痩せ型女性でSサイズにしましたが、ジャストサイズで走るならXSでもよかったかもしれません。ただとても着心地が軽いのでSサイズのゆったりめでもごわつきは気になりません。とても気に入っています。",
     "top_review_score": 5,
     "top_review_title": "軽いのに透けたり冷えたりしない。"
-  },
-  {
-    "id": "7197461086425",
-    "title": "CALM JACKET(MEN)",
-    "link": "https://hereness.jp/products/hm-30001",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/CALM_JACKET_GRAY.jpg?v=1758792675",
-    "description": "The CALM JACKET is made from RENU®, a recycled polyester made from old clothing and fabric scraps from apparel production. Thanks to a special production method, the jacket is so light you might forget you are wearing it.",
-    "price": 12000,
-    "categories": [
-      "jacket",
-      "MEN",
-      "Outer & Jacket",
-      "polyester",
-      "RECYCLED POLYESTER",
-      "Tops",
-      "ポリエステル",
-      "ランニング"
-    ],
-    "handle": "hm-30001",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/products/CALM_JACKET_GRAY.jpg?v=1758792675",
-    "average_score": 4.8,
-    "total_reviews": 14,
-    "top_review_text": "ランニング用にセットアップでCRIMSON REDを購入して良かったので洗濯した時用にblackのセットアップも購入しました。寝る時や家で休日を過ごす時に着ています。\n肌触りとユルすぎずタイトすぎないフィット感が丁度良いです。ジムやスポーツ系のイベント、大会の時にもちょっと着ていけて便利です",
-    "top_review_score": 5,
-    "top_review_title": "丁度良い"
   },
   {
     "id": "9083149713625",
@@ -1301,6 +1301,32 @@
     "top_review_title": "柔らかくて暖かい"
   },
   {
+    "id": "9041420452057",
+    "title": "UNDERCURRENT JACKET 2",
+    "link": "https://hereness.jp/products/hu-30008",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_029_009.jpg?v=1773459955",
+    "description": "This shirt jacket is highly versatile, and can be worn on its own or layered for a different look. It is made from a cotton-like recycled polyester, and provides stretch without the use of spandex. The fabric is wrinkle-resistant for easy maintenance. (There are slight differences in the fabric and color compared to the previous product.)",
+    "price": 25300,
+    "categories": [
+      "MEN",
+      "Outer & Jacket",
+      "RECYCLED POLYESTER",
+      "Tops",
+      "UNISEX",
+      "WOMEN",
+      "ポリエステル",
+      "ライフスタイル"
+    ],
+    "handle": "hu-30008",
+    "product_type": "トップス",
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S017_001.jpg?v=1773459955",
+    "average_score": 4.7,
+    "total_reviews": 3,
+    "top_review_text": "長時間移動用に購入。ジャケットの形そのものや皺になりにくい素材もとっても気に入っていますが、ぱっと見ではわからない場所（左右）にiPad miniが入るぐらいの大きいファスナー付きポケットがあり、大事なチケットや財布、スマホなどを安全に収納できるのが最高です。これから大活躍しそうです。",
+    "top_review_score": 5,
+    "top_review_title": "ファスナー最高"
+  },
+  {
     "id": "9375923929305",
     "title": "ALL TIME WOOL T-SHIRT(UNISEX)",
     "link": "https://hereness.jp/products/hu-10017",
@@ -1382,30 +1408,32 @@
     "top_review_title": "smooth wool tights"
   },
   {
-    "id": "9041420452057",
-    "title": "UNDERCURRENT JACKET 2",
-    "link": "https://hereness.jp/products/hu-30008",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_029_009.jpg?v=1773459955",
-    "description": "This shirt jacket is highly versatile, and can be worn on its own or layered for a different look. It is made from a cotton-like recycled polyester, and provides stretch without the use of spandex. The fabric is wrinkle-resistant for easy maintenance. (There are slight differences in the fabric and color compared to the previous product.)",
-    "price": 25300,
+    "id": "9780109770969",
+    "title": "WOOL MESH T-SHIRT LONG SLEEVE(UNISEX)",
+    "link": "https://hereness.jp/products/hu-10021",
+    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_003.jpg?v=1785370454",
+    "description": "This mesh T-shirt is made of high quality wool and recycled polyester intertwined yarns. This active wool T-shirt is highly breathable, does not stick to the skin, and is unprecedentedly comfortable to wear.",
+    "price": 15400,
     "categories": [
+      "Long Sleeve",
       "MEN",
-      "Outer & Jacket",
-      "RECYCLED POLYESTER",
+      "T-shirt & Tank",
       "Tops",
-      "UNISEX",
       "WOMEN",
-      "ポリエステル",
-      "ライフスタイル"
+      "ウール",
+      "トレイルラン",
+      "ハイキング",
+      "ヨガ",
+      "ランニング"
     ],
-    "handle": "hu-30008",
+    "handle": "hu-10021",
     "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S017_001.jpg?v=1773459955",
-    "average_score": 5.0,
+    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S005_006.jpg?v=1773713145",
+    "average_score": 4.5,
     "total_reviews": 2,
-    "top_review_text": "長時間移動用に購入。ジャケットの形そのものや皺になりにくい素材もとっても気に入っていますが、ぱっと見ではわからない場所（左右）にiPad miniが入るぐらいの大きいファスナー付きポケットがあり、大事なチケットや財布、スマホなどを安全に収納できるのが最高です。これから大活躍しそうです。",
+    "top_review_text": "早速これを着て走ってみましたが、肌触りがとても心地よく、快調に走れました。少し気温の高めの日で汗をかきかましたが、ベタつかず、とても気に入りました。気温が低めの日は暖かく感じ、これからの季節に活躍しそうです。",
     "top_review_score": 5,
-    "top_review_title": "ファスナー最高"
+    "top_review_title": "着心地良し。ベタつきなし。"
   },
   {
     "id": "7197464363225",
@@ -1690,34 +1718,6 @@
     "top_review_text": "１０月中旬のハイキングで使用しました。なかなか汗をかきましたが、脱いで風に当てるとすぐ乾く速乾性能があります。絶妙な赤の色味が気に入っています。\n男　175センチ　62キロ　Mサイズで少しゆとりあり",
     "top_review_score": 5,
     "top_review_title": "秋のハイキングに最適"
-  },
-  {
-    "id": "9780109770969",
-    "title": "WOOL MESH T-SHIRT LONG SLEEVE(UNISEX)",
-    "link": "https://hereness.jp/products/hu-10021",
-    "image_link": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/0726HERENESS_003.jpg?v=1785370454",
-    "description": "This mesh T-shirt is made of high quality wool and recycled polyester intertwined yarns. This active wool T-shirt is highly breathable, does not stick to the skin, and is unprecedentedly comfortable to wear.",
-    "price": 15400,
-    "categories": [
-      "Long Sleeve",
-      "MEN",
-      "T-shirt & Tank",
-      "Tops",
-      "WOMEN",
-      "ウール",
-      "トレイルラン",
-      "ハイキング",
-      "ヨガ",
-      "ランニング"
-    ],
-    "handle": "hu-10021",
-    "product_type": "トップス",
-    "product_shot_url": "https://cdn.shopify.com/s/files/1/0477/1777/7576/files/HERENESS_S005_006.jpg?v=1773713145",
-    "average_score": 4.0,
-    "total_reviews": 1,
-    "top_review_text": "タンクに続いて長袖も購入。保温性というより抜けが良くて熱がこもらないのが凄く良いです。",
-    "top_review_score": 4,
-    "top_review_title": "軽くて着やすいです"
   },
   {
     "id": "9654839378137",
